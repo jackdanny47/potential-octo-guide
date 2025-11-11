@@ -1,0 +1,9 @@
+server
+shared
+replit.md
+design_guidelines.md
+drizzle.config.ts
+tailwind.config.ts
+tsconfig.json
+vite.config.ts
+postcss.config.js
